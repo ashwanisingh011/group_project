@@ -1,5 +1,6 @@
-# This project is done by
+# In this project 
+a small project is done 
+using HTML, CSS and JavaScript
 
-    1. Ashwani Singh
-    2. Vinit Rajwani
-    3. Prince 
+
+This project is done in group
